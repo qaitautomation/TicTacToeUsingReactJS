@@ -6,7 +6,7 @@ class Square extends React.Component {
       </button>
     );
   }
-}
+} 
 
 class Board extends React.Component {
   renderSquare(i) {
